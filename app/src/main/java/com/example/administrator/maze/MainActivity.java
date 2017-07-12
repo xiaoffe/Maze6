@@ -14,7 +14,7 @@ import android.widget.Button;
 import android.widget.Toast;
 
 public class MainActivity extends Activity {
-    private int inttest=0;
+    private int inttestt=0;
     private static int FOUND_PATH = 0x111;
     private static int NOT_FOUND_PATH= 0x112;
     private Maze maze;
