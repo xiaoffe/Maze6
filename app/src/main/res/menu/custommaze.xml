@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.administrator.maze.MainActivity">
+    <item android:id="@+id/custom"
+        android:title="自定义">
+        <menu>
+            <group android:id="@+id/group">
+                <item android:id="@+id/customPanel"
+                    android:title="自定义"/>
+            </group>
+        </menu>
+    </item>
+</menu>
