@@ -12,7 +12,7 @@ import android.view.View;
 import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.Toast;
-
+//for git test
 public class MainActivity extends Activity {
     private int inttestt=0;
     private static int FOUND_PATH = 0x111;
